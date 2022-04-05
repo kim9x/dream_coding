@@ -53,7 +53,7 @@ console.log(user1.age);
 // Too soon!
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes/Class_fields
 class Experiment {
-    publicField = 2;#
+    publicField = 2;
     privateField = 0;
 }
 const experiment = new Experiment();
