@@ -9,7 +9,7 @@ const obj2 = new Object(); // 'object onstructor' syntax
 
 function print(person) {
     console.log(person.name);
-    console.log(persion.age);
+    console.log(person.age);
 }
 
 const ellie = { name: 'ellie', age: 4 };
